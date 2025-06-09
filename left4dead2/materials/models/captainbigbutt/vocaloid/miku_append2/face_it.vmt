@@ -1,0 +1,22 @@
+"patch"
+{
+	"include" "materials/models/survivors/survivors_it_shared.vmt"
+
+	"insert"
+	{
+	"$basetexture" "models\captainbigbutt\vocaloid\miku_append2\face"
+	"$bumpmap" "models\captainbigbutt\vocaloid\miku_append2\normal"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\miku_append2\facewarp"
+
+	"$phong" "1"
+	"$phongboost"	"24"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\captainbigbutt\vocaloid\miku_append2\phong_exp"
+	"$phongfresnelranges"	"[0 0 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+	}
+}

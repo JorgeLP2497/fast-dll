@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\captainbigbutt\vocaloid\miku_append2\body"
+	"$bumpmap" "models\captainbigbutt\vocaloid\miku_append2\normal"
+
+	"$lightwarptexture" "models\captainbigbutt\vocaloid\miku_append2\basewarp"
+
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\captainbigbutt\vocaloid\miku_append2\phong_exp"
+	"$phongfresnelranges"	"[1 .1 .1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "3"
+	"$rimlightboost"          "4"
+
+	"$detail" "models\captainbigbutt\vocaloid\miku_append2\body_illum"
+	"$detailscale" "1"
+	"$detailblendfactor" "0.075"
+	"$detailblendmode" "5"
+}
