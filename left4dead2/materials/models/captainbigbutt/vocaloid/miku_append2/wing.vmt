@@ -1,8 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "models\captainbigbutt\vocaloid\miku_append2\wing"
-	"$color" "[0.75 0.75 0.75]"
-	"$translucent" "1"
-	"$nocull" "1"
-	"$model" "1"
-}
